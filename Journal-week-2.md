@@ -1,0 +1,1 @@
+Journal Week #2 Goes here
