@@ -4,8 +4,6 @@ title: Week 3
 
 ---
 
-How about this?
-
 Creating a Popover in XCode
 
 As seen in class, creating a popover view can seem daunting at first, but when broken down into small parts its a relatively simple task to implement. Storyboard makes this particularly easy to accomplish.

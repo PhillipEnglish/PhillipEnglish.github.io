@@ -1,0 +1,10 @@
+*Since we just finished a week of assignments that were entirely group-based, reflect on the differences between collaborative and solitary coding. How do you approach the planning, design, and writing phases differently when you're working alone vs. in a group? How is source control affected (GitHub)? Which do you prefer? Why? Are there aspects of either/both that you could work on to improve your performance when in either situation?*
+
+
+In my experience pair coding last week, I found that my approach to each phase of the coding process differed from a solo coding endeavour, and that I also found different approaches depending on the unique talents of a given partner.
+
+Because of the need to assess the division of work, as well as the need to communicate a general scheme of design, the planning phase took up more time than it would during a solo coding session.  This allowed myself and my partner to assess both the individual apptitude we possessed for a given aspect of the assignment, as well as take the time to analyze the given problem before us.
+
+Source control via github becomes more collaborative with a partner, and the focus changes from merely providing easy editability and "undo" functionality to providing a branch that can be worked on by each coder.
+
+Given that both pair-partners at the iron-yard are still learning the ins-and-outs of both objective-c and swift, I prefer solo programming in this stage of my development as a programmer.  This is because I am largely auto-didactic, and prefer to spend a good deal of time researching a project before jumping into the planning stage: This involves a good deal of silent reading and contemplation before a solution rises to my consciousness.  This is primarily a solitary endeavour. That being said, I can see how the synergy of "two-heads" can be far greater than one once the intermediate foundation of the coding toolkit has been mastered.  Additionally, I did find that I was far more on task and focused when working with a partner.
